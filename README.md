@@ -29,9 +29,7 @@ March 2022
 13:30		Introduction to self-learning environments like learn.openshift.com or CRC
 
 14:30		Operator Framework, CoreOS, and CRI- The new container framework
-
 		including Operator Live-cycle Manager OLM for Updates
-
 
 15:00		Break
 
@@ -52,7 +50,6 @@ March 2022
 11:15		Modern Registry Management (QUAY)
 
 12:00		OpenShift from a security perspective
-
 		Advanced Security Management for Kubernetes 
 
 13:15		BREAK
