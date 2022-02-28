@@ -1,4 +1,4 @@
-<img src="https://github.com/alfbach/ocpacc/blob/master/logo.png" width="450" height="120">
+<img src="https://github.com/alfbach/ocpacc/blob/main/logo.png" width="150" height="60">
 
 
 # Red Hat OpenShift 4 Infrastructure Workshop
