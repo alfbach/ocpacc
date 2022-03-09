@@ -1,4 +1,4 @@
-<img src="https://github.com/alfbach/OCP_Arch/blob/master/logo.png" width="450" height="120">
+<img src="https://github.com/alfbach/ocpacc/blob/main/logo.png" width="150" height="60">
 
 
 # Red Hat OpenShift 4 Infrastructure Workshop
@@ -29,9 +29,7 @@ March 2022
 13:30		Introduction to self-learning environments like learn.openshift.com or CRC
 
 14:30		Operator Framework, CoreOS, and CRI- The new container framework
-
-			including Operator Live-cycle Manager OLM for Updates
-
+		including Operator Live-cycle Manager OLM for Updates
 
 15:00		Break
 
@@ -52,8 +50,7 @@ March 2022
 11:15		Modern Registry Management (QUAY)
 
 12:00		OpenShift from a security perspective
-
-			Advanced Security Management for Kubernetes 
+		Advanced Security Management for Kubernetes 
 
 13:15		BREAK
 		
