@@ -1,7 +1,7 @@
 <img src="https://github.com/alfbach/ocpacc/blob/main/logo.png" width="150" height="60">
 
 
-# Red Hat OpenShift 4 Infrastructure Workshop
+# Red Hat OpenShift 4 Dev/Ops Bootcamp
 ## for Accenture
 
 
@@ -9,58 +9,92 @@ March 2022
 
 ## Agenda:
 
+Monday 21.03. 16:00 - 18:00 GMT
 
-### Day 1:
+### Session 1:	
 
-9:00		Welcome and Intro	
+OpenShift Architecture						
 
-9:15		OpenShift - Overview
+Core-OS Cri-O and the Operator Framework			
 
-10:15		OpenShift Architecture Part 1
+Self Learning Environments						
 
-11:00		BREAK		
+HomeWork: OpenShift 4 Foundations
 
-11:15		OpenShift Architecture Part 2
 
-12:15		Intro to HandsOn Lab
 
-12:30		BREAK
+Wednesday 23.03 16:00 - 18:00 GMT
 
-13:30		Introduction to self-learning environments like learn.openshift.com or CRC
+### Session 2:	
 
-14:30		Operator Framework, CoreOS, and CRI- The new container framework
-		including Operator Live-cycle Manager OLM for Updates
+Open Hybrid Cloud / OCP on Hyperscalers				
 
-15:00		Break
+HyperShift  								
 
-15:10		OpenShift Plattform Installation
+Advanced Cluster Management					
 
-16:00		WrapUp End of Day 1
+HomeWork: cont. OpenShift 4 Foundations
 
-### Day 2:
 
-9:00		Introduction Day2
 
-9:15		OpenShift Virtualisation		
+Friday 25.03 16: - 18:00 GMT
 
-10:00		Advanced Cluster Management
+### Session 3:	
 
-11:00		BREAK
+OpenShift Storage Foundation
 
-11:15		Modern Registry Management (QUAY)
+Quay Enterprise Regisitry  						
 
-12:00		OpenShift from a security perspective
-		Advanced Security Management for Kubernetes 
+OpenShift Virtualisation						
 
-13:15		BREAK
+HomeWork: OpenShift Container Platform 4 Resources and Tools
+
+
+
+Monday 28.03. 16:00 - 18:00 GMT
+
+### Session 4:	
+
+Security at a glance							
+
+Advanced Container Security for Kubernetes			
 		
-14:15		OpenShift Storage Foundation
+HomeWork: OpenShift Container Platform 4 Installation
 
-14:35		Introduction into Cloud Native (Serverless)
 
-14:55		Break
 
-15:00		What´s Comming in Openshift (RoadMap)
+Wednesady 30.03 16:00 - 18:00 GMT		
 
-16:00		Q&A and End		
+### Session 5:	
 
+Iot and AI/ML with OpenShift								
+
+Cloud-Native and ISTIO (Service Mesh) in a Nutshell		
+
+What´s Comming in OpenShift (2022 Roadmap review)		
+		
+HomeWork: Hands-On with Red Hat OpenShift 4.9
+
+
+
+Thursday 31.03 16:00 - 18:00 GMT
+
+### Dev Session1:
+
+Quarqus Quickstart							
+
+Kustomize and Helm charts						
+
+HomeWork: Application Deployment with Red Hat OpenShift 
+
+
+
+Friday 1.04.16:00 - 18:00 GMT
+
+### Dev Session 2:
+
+Tekton Pipelines							
+
+GitOps with ArgoCD  							
+
+HomeWork cont: Application Deployment with Red Hat OpenShift
