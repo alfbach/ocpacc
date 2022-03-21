@@ -9,6 +9,7 @@ March 2022
 
 ## Agenda:
 
+-----------------------------------------------------------------------
 Monday 21.03. 16:00 - 18:00 GMT
 
 ### Session 1:	
@@ -21,8 +22,7 @@ Self Learning Environments
 
 HomeWork: OpenShift 4 Foundations
 
-
-
+-----------------------------------------------------------------------
 Wednesday 23.03 16:00 - 18:00 GMT
 
 ### Session 2:	
@@ -35,8 +35,7 @@ Advanced Cluster Management
 
 HomeWork: cont. OpenShift 4 Foundations
 
-
-
+-----------------------------------------------------------------------
 Friday 25.03 16: - 18:00 GMT
 
 ### Session 3:	
@@ -49,8 +48,7 @@ OpenShift Virtualisation
 
 HomeWork: OpenShift Container Platform 4 Resources and Tools
 
-
-
+-----------------------------------------------------------------------
 Monday 28.03. 16:00 - 18:00 GMT
 
 ### Session 4:	
@@ -61,8 +59,7 @@ Advanced Container Security for Kubernetes
 		
 HomeWork: OpenShift Container Platform 4 Installation
 
-
-
+------------------------------------------------------------------------
 Wednesady 30.03 16:00 - 18:00 GMT		
 
 ### Session 5:	
@@ -75,8 +72,7 @@ What´s Comming in OpenShift (2022 Roadmap review)
 		
 HomeWork: Hands-On with Red Hat OpenShift 4.9
 
-
-
+------------------------------------------------------------------------
 Thursday 31.03 16:00 - 18:00 GMT
 
 ### Dev Session1:
@@ -87,8 +83,7 @@ Kustomize and Helm charts
 
 HomeWork: Application Deployment with Red Hat OpenShift 
 
-
-
+-----------------------------------------------------------------------
 Friday 1.04.16:00 - 18:00 GMT
 
 ### Dev Session 2:
