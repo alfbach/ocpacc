@@ -36,7 +36,7 @@ Advanced Cluster Management
 HomeWork: cont. OpenShift 4 Foundations
 
 -----------------------------------------------------------------------
-Friday 25.03 16: - 18:00 GMT
+Friday 25.03 16:00 - 18:00 GMT
 
 ### Session 3:	
 
@@ -46,7 +46,7 @@ Quay Enterprise Regisitry
 
 OpenShift Virtualisation						
 
-HomeWork: Red Hat OpenShift Data Foundation for Technical Sales
+HomeWork:OpenShift Container Platform 4 Installation
 
 -----------------------------------------------------------------------
 Monday 28.03. 16:00 - 18:00 GMT
@@ -57,7 +57,7 @@ Security at a glance
 
 Advanced Container Security for Kubernetes			
 		
-HomeWork: OpenShift Container Platform 4 Installation
+HomeWork: Red Hat OpenShift Data Foundation for Technical Sales
 
 ------------------------------------------------------------------------
 Wednesady 30.03 16:00 - 18:00 GMT		
