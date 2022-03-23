@@ -46,7 +46,7 @@ Quay Enterprise Regisitry
 
 OpenShift Virtualisation						
 
-HomeWork: OpenShift Container Platform 4 Resources and Tools
+HomeWork: Red Hat OpenShift Data Foundation for Technical Sales
 
 -----------------------------------------------------------------------
 Monday 28.03. 16:00 - 18:00 GMT
