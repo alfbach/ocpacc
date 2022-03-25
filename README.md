@@ -77,7 +77,7 @@ Thursday 31.03 16:00 - 18:00 GMT
 
 ### Dev Session1:
 
-Quarqus Quickstart							
+Quarkus Quickstart							
 
 Kustomize and Helm charts						
 
