@@ -46,7 +46,9 @@ Quay Enterprise Regisitry
 
 OpenShift Virtualisation						
 
-HomeWork:OpenShift Container Platform 4 Installation
+HomeWork:(OpenShift Container Platform 4 Installation) - > Retired sorry !
+
+>>>>> Introduction to Red Hat OpenShift Container Platform 4 Operators. <<<<<<
 
 -----------------------------------------------------------------------
 Monday 28.03. 16:00 - 18:00 GMT
@@ -75,7 +77,7 @@ HomeWork: Hands-On with Red Hat OpenShift 4.9
 ------------------------------------------------------------------------
 Thursday 31.03 16:00 - 18:00 GMT
 
-### Dev Session1:
+### Dev Session 1:
 
 Quarkus Quickstart							
 
